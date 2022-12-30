@@ -5,6 +5,7 @@ Here my github page serves a purpose of a portfolio to the personal projects I a
 
 ### 💬 Get in touch
 - Linkedin: https://www.linkedin.com/in/gary-wahyudi-b9491a206/
+- E-mail: gary.wahyudi@protonmail.com
 <!---
 garywahyudi/garywahyudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
